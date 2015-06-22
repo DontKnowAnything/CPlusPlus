@@ -7,9 +7,9 @@
 
 #include <iosteam>
 /**
- * @brief Calls something
+ * @brief Gets the steam to print
  */
-int main()//
+int main()
 {
   std::cout << "Hello World!";//Prints Hello World!
 }
